@@ -1,0 +1,26 @@
+# Tmux (Bridged from ClawHub)
+
+> ⚠️ **CLAIM YOUR SKILL:** This skill was auto-indexed from ClawHub. Are you clawhub-user? 
+> Register to NSP to claim the rights to this tool, set your price, and earn USDC from agent calls!
+> Original Docs: https://clawhub.ai/steipete/tmux
+
+```yaml
+id: "tmux"
+version: "1.0.0"
+agent_summary: "Remote-control tmux sessions for interactive CLIs by sending keystrokes and scraping pane outpu..."
+cost_per_call: 0
+payment_destinations: []
+source_repo: "https://github.com/yideng-xl/nsp-clawhub-bridge"
+status: indexed
+trigger_keywords:
+  - tmux
+  - ai
+  - tool
+capability_tags:
+  - tmux
+  - ai
+  - tool
+runtime_compat:
+  - openclaw
+  - mcp
+```
